@@ -66,11 +66,6 @@ Most of the projects I work on come from problems I have run into in my own day-
 <p align="center">
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api?username=MatthewKim07&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=d4a373&rank_icon=github&custom_title=GitHub%20Snapshot"
-    alt="Matthew Kim's GitHub snapshot"
-  />
-  <img
-    height="165"
     src="https://streak-stats.demolab.com?user=MatthewKim07&hide_border=true&background=0d1117&ring=d4a373&fire=d4a373&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=c9d1d9&dates=8b949e"
     alt="Matthew Kim's GitHub streak"
   />
