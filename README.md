@@ -1,16 +1,14 @@
-# About Me
+# 🙋🏻‍♂️ About Me
 
-Hey, I'm Matthew 🙋🏻‍♂️
+I'm Matthew,
 
-Mechatronics Engineering @ University of Waterloo.
+Mechatronics Engineering @ University of Waterloo 🤝 Web Developer @ University of Waterloo Libraries
 
-Web Developer @ University of Waterloo Libraries.
+I enjoy turning ideas into reality through code 💻
 
-I enjoy turning ideas into reality through code.
+Most of the projects I work on come from problems I have run into in my own day-to-day life, and I like turning those firsthand frustrations into tools and solutions that feel genuinely worth using 
 
-Most of the projects I work on come from problems I have run into in my own day-to-day life, and I like turning those firsthand frustrations into tools and solutions that feel genuinely worth using.
-
-## Tech Stack
+## ⚙️ Tech Stack 
 
 <p>
   <strong>Languages</strong><br />
@@ -61,7 +59,7 @@ Most of the projects I work on come from problems I have run into in my own day-
   <img src="https://img.shields.io/badge/LLMs-3f3f46?style=flat-square&logoColor=white" alt="LLMs" />
 </p>
 
-## Activity
+## 📊 Activity
 
 <p align="center">
   <img
