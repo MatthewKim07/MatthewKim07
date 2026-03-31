@@ -31,6 +31,9 @@ Most of the projects I work on come from problems I have run into in my own day-
   <img src="https://img.shields.io/badge/Fastify-1f4d46?style=flat-square&logo=fastify&logoColor=white" alt="Fastify" />
   <img src="https://img.shields.io/badge/Flask-1f4d46?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/FastAPI-1f4d46?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Pydantic-1f4d46?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic" />
+  <img src="https://img.shields.io/badge/NumPy-1f4d46?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-1f4d46?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/Prisma-1f4d46?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-1f4d46?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </p>
@@ -44,6 +47,7 @@ Most of the projects I work on come from problems I have run into in my own day-
   <img src="https://img.shields.io/badge/PostgreSQL-5b4636?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Supabase-5b4636?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/Playwright-5b4636?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
+  <img src="https://img.shields.io/badge/Pytest-5b4636?style=flat-square&logo=pytest&logoColor=white" alt="Pytest" />
   <img src="https://img.shields.io/badge/Vite-5b4636?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
   <img src="https://img.shields.io/badge/Notion-5b4636?style=flat-square&logo=notion&logoColor=white" alt="Notion" />
   <img src="https://img.shields.io/badge/Canva-5b4636?style=flat-square&logo=canva&logoColor=white" alt="Canva" />
