@@ -1,12 +1,16 @@
 <p align="center">
+  <img src="header.svg" width="100%" alt="Matthew Kim"/>
+</p>
+
+<p align="center">
   <img src="bubby-pixel-removed-bg.gif" width="180" alt="Bubby"/>
   <br/>
-  <sub>My dog Bubby says hi 🐾</sub>
+  <sub>came for the code, stayed for Bubby 🐾</sub>
 </p>
 
 # 🙋🏻‍♂️ About Me
 
-I'm Matthew,
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&width=500&lines=Hi%2C+I'm+Matthew+%F0%9F%91%8B" alt="Hi, I'm Matthew"/>
 
 Mechatronics Engineering @ University of Waterloo 🤝 Web Developer @ University of Waterloo Libraries
 
@@ -74,7 +78,7 @@ Most of the projects I work on come from problems I have run into in my own day-
 <p align="center">
   <img
     height="165"
-    src="https://streak-stats.demolab.com?user=MatthewKim07&hide_border=true&background=0d1117&ring=d4a373&fire=d4a373&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=c9d1d9&dates=8b949e"
+    src="https://streak-stats.demolab.com?user=MatthewKim07&hide_border=true&background=00000000&ring=d4a373&fire=d4a373&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=c9d1d9&dates=8b949e"
     alt="Matthew Kim's GitHub streak"
   />
 </p>
@@ -82,7 +86,7 @@ Most of the projects I work on come from problems I have run into in my own day-
 <p align="center">
   <img
     width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=MatthewKim07&bg_color=0d1117&color=c9d1d9&line=d4a373&point=ffffff&area=true&hide_border=true&title_color=ffffff&custom_title=Recent%20Contributions"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=MatthewKim07&bg_color=00000000&color=c9d1d9&line=d4a373&point=ffffff&area=true&hide_border=true&title_color=ffffff&custom_title=Recent%20Contributions"
     alt="Matthew Kim's recent contributions graph"
   />
 </p>
