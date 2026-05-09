@@ -28,8 +28,11 @@ Most of the projects I work on come from problems I have run into in my own day-
   <img src="https://img.shields.io/badge/SQL-334155?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/C%2B%2B-334155?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Bash-334155?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Swift-334155?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/PHP-334155?style=flat-square&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/HTML5-334155?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-334155?style=flat-square&logo=css&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Sass-334155?style=flat-square&logo=sass&logoColor=white" alt="Sass" />
 </p>
 
 <p>
@@ -45,6 +48,14 @@ Most of the projects I work on come from problems I have run into in my own day-
   <img src="https://img.shields.io/badge/NumPy-1f4d46?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Pandas-1f4d46?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/Prisma-1f4d46?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/Express-1f4d46?style=flat-square&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/SwiftUI-1f4d46?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI" />
+  <img src="https://img.shields.io/badge/React_Native-1f4d46?style=flat-square&logo=react&logoColor=white" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-1f4d46?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
+  <img src="https://img.shields.io/badge/Framer_Motion-1f4d46?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion" />
+  <img src="https://img.shields.io/badge/Radix_UI-1f4d46?style=flat-square&logo=radixui&logoColor=white" alt="Radix UI" />
+  <img src="https://img.shields.io/badge/TanStack_Query-1f4d46?style=flat-square&logo=reactquery&logoColor=white" alt="TanStack Query" />
+  <img src="https://img.shields.io/badge/Zod-1f4d46?style=flat-square&logoColor=white" alt="Zod" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-1f4d46?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </p>
 
@@ -56,21 +67,28 @@ Most of the projects I work on come from problems I have run into in my own day-
   <img src="https://img.shields.io/badge/GitHub_Actions-5b4636?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/PostgreSQL-5b4636?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Supabase-5b4636?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/MySQL-5b4636?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Elasticsearch-5b4636?style=flat-square&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
   <img src="https://img.shields.io/badge/Playwright-5b4636?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
   <img src="https://img.shields.io/badge/Pytest-5b4636?style=flat-square&logo=pytest&logoColor=white" alt="Pytest" />
   <img src="https://img.shields.io/badge/Vite-5b4636?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Notion-5b4636?style=flat-square&logo=notion&logoColor=white" alt="Notion" />
-  <img src="https://img.shields.io/badge/Canva-5b4636?style=flat-square&logo=canva&logoColor=white" alt="Canva" />
-  <img src="https://img.shields.io/badge/Excel-5b4636?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Nginx-5b4636?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Bun-5b4636?style=flat-square&logo=bun&logoColor=white" alt="Bun" />
+  <img src="https://img.shields.io/badge/Xcode-5b4636?style=flat-square&logo=xcode&logoColor=white" alt="Xcode" />
+  <img src="https://img.shields.io/badge/Netlify-5b4636?style=flat-square&logo=netlify&logoColor=white" alt="Netlify" />
 </p>
 
 <p>
   <strong>Other</strong><br />
   <img src="https://img.shields.io/badge/REST_APIs-3f3f46?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs" />
   <img src="https://img.shields.io/badge/WCAG-3f3f46?style=flat-square&logoColor=white" alt="WCAG" />
-  <img src="https://img.shields.io/badge/ARIA-3f3f46?style=flat-square&logoColor=white" alt="ARIA" />
   <img src="https://img.shields.io/badge/CI%2FCD-3f3f46?style=flat-square&logoColor=white" alt="CI/CD" />
   <img src="https://img.shields.io/badge/LLMs-3f3f46?style=flat-square&logoColor=white" alt="LLMs" />
+  <img src="https://img.shields.io/badge/OAuth_2.0-3f3f46?style=flat-square&logoColor=white" alt="OAuth 2.0" />
+  <img src="https://img.shields.io/badge/JWT-3f3f46?style=flat-square&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/WebAssembly-3f3f46?style=flat-square&logo=webassembly&logoColor=white" alt="WebAssembly" />
+  <img src="https://img.shields.io/badge/Chrome_Extensions-3f3f46?style=flat-square&logo=googlechrome&logoColor=white" alt="Chrome Extensions" />
+  <img src="https://img.shields.io/badge/VS_Code_Extension_API-3f3f46?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code Extension API" />
 </p>
 
 ## 📊 Activity
