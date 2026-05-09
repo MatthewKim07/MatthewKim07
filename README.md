@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="bubby-pixel-removed-bg.gif" width="180" alt="Bubby"/>
+  <br/>
+  <sub>My dog Bubby says hi 🐾</sub>
+</p>
+
 # 🙋🏻‍♂️ About Me
 
 I'm Matthew,
@@ -6,7 +12,7 @@ Mechatronics Engineering @ University of Waterloo 🤝 Web Developer @ Universit
 
 I enjoy turning ideas into reality through code 💻
 
-Most of the projects I work on come from problems I have run into in my own day-to-day life, and I like turning those firsthand frustrations into tools and solutions that feel genuinely worth using 
+Most of the projects I work on come from problems I have run into in my own day-to-day life, and I like turning those firsthand frustrations into tools and solutions that feel genuinely worth using
 
 ## ⚙️ Tech Stack 
 
