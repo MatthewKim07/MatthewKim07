@@ -12,7 +12,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&width=500&lines=Hi%2C+I'm+Matthew+%F0%9F%91%8B" alt="Hi, I'm Matthew"/>
 
-Mechatronics Engineering @ University of Waterloo 🤝 Prev. Software Developer @ University of Waterloo Libraries
+Mechatronics Engineering @ University of Waterloo 🤝 Software Developer @ University of Waterloo Libraries
 
 I enjoy turning ideas into reality through code 💻
 
