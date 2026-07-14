@@ -1,5 +1,15 @@
-# Hi, I'm Matthew 👋
+<div align="center">
 
-Mechatronics Engineering @ University of Waterloo · Software Developer @ University of Waterloo Libraries
+<br/>
 
-<!-- Fresh start — build from here. Previous README archived at tag `readme-v1`. -->
+# Matthew Kim
+
+**mechatronics @ waterloo**
+
+<br/>
+
+*build what bothers you.*
+
+<br/>
+
+</div>
