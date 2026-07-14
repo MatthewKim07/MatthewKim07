@@ -2,13 +2,11 @@
 
 <br/>
 
-# Matthew Kim
-
-**mechatronics @ waterloo**
+<img src="bubby-pixel-removed-bg.gif" width="180" alt="Bubby"/>
 
 <br/>
 
-*build what bothers you.*
+**check out [matthewkim.ca](https://matthewkim.ca)**
 
 <br/>
 
