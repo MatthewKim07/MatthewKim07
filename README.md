@@ -1,4 +1,4 @@
-<img src="bubby-padded.gif" align="right" width="305" height="160" alt="bubby"/>
+<img src="bubby-padded.gif" align="right" width="200" height="105" alt="bubby"/>
 
 - mechatronics&nbsp;engineering&nbsp;@&nbsp;uwaterloo
 - incoming&nbsp;@&nbsp;statcan
