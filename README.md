@@ -1,5 +1,4 @@
-<img src="spacer.png" width="140" height="1" align="right" alt=""/>
-<img src="bubby-pixel-removed-bg.gif" height="160" align="right" alt="bubby"/>
+<img src="bubby-padded.gif" align="right" width="305" height="160" alt="bubby"/>
 
 currently:
 
