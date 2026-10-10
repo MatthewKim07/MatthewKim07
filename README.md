@@ -3,7 +3,5 @@
 </p>
 
 <p align="center">
-  mechatronics eng @ uwaterloo<br/>
-  open&#8209;source dev @ <a href="https://www.statcan.gc.ca/en/start">statcan</a><br/>
-  check out <a href="https://matthewkim.ca">matthewkim.ca</a>
+  mechatronics eng @ uwaterloo &nbsp;·&nbsp; open&#8209;source dev @ <a href="https://www.statcan.gc.ca/en/start">statcan</a> &nbsp;·&nbsp; check out <a href="https://matthewkim.ca">matthewkim.ca</a>
 </p>
